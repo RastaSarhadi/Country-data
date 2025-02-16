@@ -1,3 +1,7 @@
+in this project i used PCA and K_means models .
+
+about dataset :
+ششa
 country: Name of the country
 
 child_mort: Death of children under 5 years of age per 1000 live births
